@@ -252,7 +252,7 @@ section .name-cake {
     margin-bottom: 1rem;
 }
 section .name-cake h2:hover {
-    color: #9E7676;
+    color: #a48181;
 }
 
 section .goods-container {
@@ -288,13 +288,13 @@ section .goods-container .product-card:hover h3 {
     background:  #665050;
     -webkit-background-clip: text;
     background-clip: text;
-    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: #000000;
 }
 section .goods-container .product-card:hover p.price {
     background: #665050;
     -webkit-background-clip: text;
     background-clip: text;
-    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: #000000;
 }
 section .goods-container .product-card p.price {
     font-size: 1.2rem;
