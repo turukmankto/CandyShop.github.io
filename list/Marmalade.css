@@ -277,6 +277,10 @@ section .goods-container .product-card {
     padding: 5px;
     box-shadow: 2px 2px 5px 2px rgb(0 0 0 / 70%);
 }
+section .goods-container .product-card:hover {
+    transition: 0.5s;
+    transform: translate(10px,-10px);
+}
 section .goods-container .product-card img {
     position: relative;
     width: 150px;
