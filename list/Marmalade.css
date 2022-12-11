@@ -281,6 +281,9 @@ section .goods-container .product-card:hover {
     transition: 0.5s;
     transform: translate(10px,-10px);
 }
+section .goods-container .product-card:not(:hover){
+    transition: 0.5s 0.1s;
+}
 section .goods-container .product-card img {
     position: relative;
     width: 150px;
