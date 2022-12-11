@@ -279,7 +279,7 @@ section .goods-container .product-card {
 }
 section .goods-container .product-card:hover{
     transition: 0.5s;
-    transform: scale(1.3);
+    transform: scale(1.1);
 }
 section .goods-container .product-card img {
     position: relative;
